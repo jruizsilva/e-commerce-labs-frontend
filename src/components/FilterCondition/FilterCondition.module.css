@@ -1,0 +1,19 @@
+.container {
+  margin: 16px;
+}
+.title {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+.item {
+  margin-bottom: 8px;
+}
+.link {
+  font-size: 14px;
+  color: #666;
+  user-select: none;
+}
+.link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

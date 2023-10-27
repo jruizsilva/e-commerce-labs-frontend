@@ -1,0 +1,24 @@
+.container {
+  max-height: 120px;
+  flex-basis: 150px;
+  margin-right: 64px;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background: none;
+  border: none;
+  padding: 0;
+  overflow: hidden;
+  height: 120px;
+}
+.logo {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+.logo:hover {
+  cursor: pointer;
+}
