@@ -1,4 +1,4 @@
-# <a href="https://e-commerce-labs-frontend.vercel.app/home">Marketplace App</a>
+<h1 align="center"><a href="https://e-commerce-labs-frontend.vercel.app/home">Marketplace App</a></h1>
 
 ## _Overview_
 
